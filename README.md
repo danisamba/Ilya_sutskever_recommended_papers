@@ -1,9 +1,11 @@
 ### Ilya Sutskever recommended AI papers
 <hr/>
 
-This is the list of papers that Ilya Sutskever gave to John Carmack when he requested all the stuff to know in order to be relevant in AI back in 2019.
+This is the list of papers that Ilya Sutskever gave to John Carmack when he requested all the stuff to know in order to be relevant in AI back in 2019. He told it in this [interview](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/).
+
 *"If you really learn all of these, you’ll know 90% of what matters today."*
 
+<hr/>
 
 - "The First Law of Complexodynamics" (2011) - [https://scottaaronson.blog/?p=762](https://scottaaronson.blog/?p=762) (Scott Aaronson)
 - "The Unreasonable Effectiveness of Recurrent Neural Networks" (2015) - [https://karpathy.github.io/2015/05/21/rnn-effectiveness/](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) (Andrej Karpathy)
@@ -30,7 +32,6 @@ This is the list of papers that Ilya Sutskever gave to John Carmack when he requ
 - "A Tutorial Introduction to the Minimum Description Length Principle" (2004) - [https://arxiv.org/pdf/math/0406077](https://arxiv.org/pdf/math/0406077)
 - "Machine Super Intelligence" (2009) - [https://pdfs.semanticscholar.org/e758/b579456545f8691bbadaf26bcd3b536c7172.pdf](https://pdfs.semanticscholar.org/e758/b579456545f8691bbadaf26bcd3b536c7172.pdf)
 - "Kolmogorov Complexity and Algorithmic Randomness" (2013) - [https://www.lirmm.fr/~ashen/kolmbook-eng-scan.pdf](https://www.lirmm.fr/~ashen/kolmbook-eng-scan.pdf)
-- "Stanford’s CS231n Convolutional Neural Networks for Visual Recognition" - [https://cs231n.stanford.edu/](https://cs231n.stanford.edu/) (Stanford)
 
-
+Download all the papers from [here](https://drive.google.com/drive/folders/1dfHMYzT-LDO4cagVe1EhJGETsKVohgkY?usp=drive_link).
 
